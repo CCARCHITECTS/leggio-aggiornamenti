@@ -1,0 +1,42 @@
+{
+ "versione": "4.7.0",
+ "motore": 1,
+ "data": "2026-11-26",
+ "note": "Prima versione con l’aggiornamento automatico.",
+ "pacchetto": {
+  "url": "https://raw.githubusercontent.com/CCARCHITECTS/leggio-aggiornamenti/main/pacchetti/leggio-4.7.0.pacchetto",
+  "sha256": "554c2e5a711f6237a4229d88c55dac98b0d2ecfd6235e7c9903354d1e0c14011",
+  "dimensione": 9063188
+ },
+ "file": {
+  "main.js": "a06c8fda6e75fc5d0be2142f064be6dbc65e7d554239b1c7eaadf64a980aaeb1",
+  "preload.js": "0adff2737a5e561f0bb8c10abe98192c11e870c3c67c27450897bba0482cce72",
+  "build/icon.png": "d42d79dde2eb5b3835b9fbc57a9a9ffe913ce60c5da1bcf8231b08ff069a6837",
+  "app/fonts/barlow-latin-400-normal.woff2": "7c9c80a6c32c0619d61c28f28723e68c5f8f75163e77ee5cf64c39e640e0d71e",
+  "app/fonts/barlow-latin-500-normal.woff2": "7c0597b1b0c771139c958982210f05b275993037f0f3ba20d7a9300a0741dc80",
+  "app/fonts/barlow-latin-600-normal.woff2": "2b14e8397d552f351a4396dec25ec5da1348865683100e94c4ab0faea4a9a254",
+  "app/fonts/barlow-latin-700-normal.woff2": "65a47caa5183b035bf78d0f93adbe5cea500333410259c54abf2de356740df7e",
+  "app/index.html": "c335f9be0e3ceb6e0c27b378bf183b09e178dd6f0d86df5c6536261ad83d68dd",
+  "app/vendor/LICENSE-anthropic.txt": "7fc343be7ec189b803c1872267cbaf0381b12ffdb22d972b8ea7b21b262ba563",
+  "app/vendor/LICENSE-forge.txt": "f63ff0e4e239244aa79280da2dd4811a0469e5e201caf5cbc0d97c3a1dff8e82",
+  "app/vendor/anthropic.min.js": "8044c8681b521ff7ff43acc4bf61039d2da9373add11176d6ac68ab042011978",
+  "app/vendor/fontkit.umd.min.js": "d8df561b9fba98e24f2e5130e40948809281bbbc55a20c412359f1a0a5eb35a6",
+  "app/vendor/forge.min.js": "dc67fd132427ad96c9666c844b39565413c40ddb1f2d063c53512fbf6d387dfd",
+  "app/vendor/jszip.min.js": "acc7e41455a80765b5fd9c7ee1b8078a6d160bbbca455aeae854de65c947d59e",
+  "app/vendor/pdf-fonts/DejaVuSans-Bold.ttf": "e6476c1b80502924294eed40894c5b18e06c181444ca953e5334262df9c27724",
+  "app/vendor/pdf-fonts/DejaVuSans.ttf": "7da195a74c55bef988d0d48f9508bd5d849425c1770dba5d7bfc6ce9ed848954",
+  "app/vendor/pdf-fonts/LICENSE-DejaVu.txt": "7a083b136e64d064794c3419751e5c7dd10d2f64c108fe5ba161eae5e5958a93",
+  "app/vendor/pdf-lib.min.js": "1903cbecdd90ff2356a9f2994a96250ff3ad5a81146aaebba1431354cf945f28",
+  "app/vendor/pdf.min.js": "5b5799e6f8c680663207ac5b42ee14eed2a406fa7af48f50c154f0c0b1566946",
+  "app/vendor/pdf.worker.min.js": "feabdf309770ed24bba31a5467836cdc8cf639c705af27d52b585b041bb8527b",
+  "app/vendor/tesseract/core/tesseract-core-lstm.js": "fc54a973687325599214294ec90ea9665309cbdf6ca727c43a64651f24e923f7",
+  "app/vendor/tesseract/core/tesseract-core-lstm.wasm": "5db58ea4d1bd4256be81e8ae3b4fa226c4625dfba1850b1b3308dbf3700e9929",
+  "app/vendor/tesseract/core/tesseract-core-lstm.wasm.js": "8f04aa0cc81e7bde33f80e92fa01a7a665f0b4884d098acf5de9c7104a11dfaa",
+  "app/vendor/tesseract/core/tesseract-core-simd-lstm.js": "4135a3f6f1cccf3bc92058c1273c49bb4cff6356e1ba15d1b8b4e76e9890526b",
+  "app/vendor/tesseract/core/tesseract-core-simd-lstm.wasm": "66b601224a0c4a8977bc9d92dd39841189f9ca22cc4122fcd7208cdb0961eeef",
+  "app/vendor/tesseract/core/tesseract-core-simd-lstm.wasm.js": "ce20eda9533cbed1e6c2b4276fbae1e0adc61b6754b5513084be601787b457cf",
+  "app/vendor/tesseract/lang/ita.traineddata.gz": "f702fcfad297ce028ede3626d1467b67939f23ff23595f9badd54681cf25a4d3",
+  "app/vendor/tesseract/tesseract.min.js": "a8e29918d098b2b06e1012bdaeffb4aec0445c5d5654709023e0bd1f442a80e8",
+  "app/vendor/tesseract/worker.min.js": "aca1229639fc9907d86f96e825955a2b7c5716d17f3bc3acd71f9c7ab66181fc"
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "app": "scrittoio",
+ "versione": "4.9.0",
+ "motore": 1,
+ "data": "2026-11-26",
+ "note": "Prima versione con l'aggiornamento automatico.",
+ "pc": {
+  "file": {
+   "fonts/fraunces-latin-opsz-normal.woff2": "7234ed860a9cc83045413c4faee63c960a8f2d1917adcf728119307d56e0d783",
+   "fonts/ibm-plex-sans-latin-400-normal.woff2": "3b646991d30055a93a4ecc499713d4347953a74a947ecab435ab72070cbdab0e",
+   "fonts/ibm-plex-sans-latin-500-normal.woff2": "0717336fb31fcdcde4b8deb3675bb4a0f7f6d484864afcd6751ac29975962203",
+   "fonts/ibm-plex-sans-latin-600-normal.woff2": "8960851d691c054ed38e259bdcf1a6190d157b4203ed5bb32c632a863fb8ec2f",
+   "index.html": "badba3696a94a269e62fd49315bf562e9f8f6234d3768521bf4c8ad61a691920",
+   "lib/docx.umd.js": "02d568d203c0180af37609bcf5ff6c0919d220f933a88ca896eba0556a08faad",
+   "lib/html2canvas.min.js": "e87e550794322e574a1fda0c1549a3c70dae5a93d9113417a429016838eab8cb",
+   "lib/jspdf.umd.min.js": "98ccf17aa10c20bb1301762618fcc9b6ab3a4e7f26b6071d64d0b41154df3875",
+   "lib/jszip.min.js": "acc7e41455a80765b5fd9c7ee1b8078a6d160bbbca455aeae854de65c947d59e",
+   "lib/mammoth.browser.min.js": "deb07bf230d1cb3e190bc5adc6743f35c6531b6571d1e5469b24f452a7f0f4ab",
+   "lib/mathjax/tex-svg-full.js": "a4354ff94fd868aea0cc6eaaa79a57fda0588646fc46ee3700a349ee0a11cbe6"
+  }
+ },
+ "android": {
+  "file": {
+   "fonts/fraunces-latin-opsz-normal.woff2": "7234ed860a9cc83045413c4faee63c960a8f2d1917adcf728119307d56e0d783",
+   "fonts/ibm-plex-sans-latin-400-normal.woff2": "3b646991d30055a93a4ecc499713d4347953a74a947ecab435ab72070cbdab0e",
+   "fonts/ibm-plex-sans-latin-500-normal.woff2": "0717336fb31fcdcde4b8deb3675bb4a0f7f6d484864afcd6751ac29975962203",
+   "fonts/ibm-plex-sans-latin-600-normal.woff2": "8960851d691c054ed38e259bdcf1a6190d157b4203ed5bb32c632a863fb8ec2f",
+   "index.html": "f71b358edbd9c488fcacd90af9f520f81c26bd28ecf18d43d2eb12ef69e88878",
+   "lib/docx.umd.js": "02d568d203c0180af37609bcf5ff6c0919d220f933a88ca896eba0556a08faad",
+   "lib/html2canvas.min.js": "e87e550794322e574a1fda0c1549a3c70dae5a93d9113417a429016838eab8cb",
+   "lib/jspdf.umd.min.js": "98ccf17aa10c20bb1301762618fcc9b6ab3a4e7f26b6071d64d0b41154df3875",
+   "lib/jszip.min.js": "acc7e41455a80765b5fd9c7ee1b8078a6d160bbbca455aeae854de65c947d59e",
+   "lib/mammoth.browser.min.js": "deb07bf230d1cb3e190bc5adc6743f35c6531b6571d1e5469b24f452a7f0f4ab",
+   "lib/mathjax/tex-svg-full.js": "a4354ff94fd868aea0cc6eaaa79a57fda0588646fc46ee3700a349ee0a11cbe6"
+  }
+ }
+}

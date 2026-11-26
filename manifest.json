@@ -1,12 +1,12 @@
 {
- "versione": "4.7.1",
+ "versione": "4.7.2",
  "motore": 1,
  "data": "2026-11-26",
- "note": "Pagine dei PDF più nitide: allineate ai pixel dello schermo (scala di Windows 125% e 150%) e a piena risoluzione anche con lo zoom forte e le tavole grandi.",
+ "note": "Pagine più grandi e nitide all'apertura: il 100% ora è la dimensione reale, come nei programmi PDF professionali; testo più definito su Windows.",
  "pacchetto": {
-  "url": "https://raw.githubusercontent.com/CCARCHITECTS/leggio-aggiornamenti/main/pacchetti/leggio-4.7.1.pacchetto",
-  "sha256": "fa181698284315b984ab45f741af522b2e7cad1dd08b0dde8ff7bc5d5ca2934d",
-  "dimensione": 9065638
+  "url": "https://raw.githubusercontent.com/CCARCHITECTS/leggio-aggiornamenti/main/pacchetti/leggio-4.7.2.pacchetto",
+  "sha256": "19b02e8af362ca0a88719cacec89b5172131264fd69057d3c67c3a89e4fb0e13",
+  "dimensione": 9065642
  },
  "file": {
   "main.js": "a06c8fda6e75fc5d0be2142f064be6dbc65e7d554239b1c7eaadf64a980aaeb1",
@@ -16,7 +16,7 @@
   "app/fonts/barlow-latin-500-normal.woff2": "7c0597b1b0c771139c958982210f05b275993037f0f3ba20d7a9300a0741dc80",
   "app/fonts/barlow-latin-600-normal.woff2": "2b14e8397d552f351a4396dec25ec5da1348865683100e94c4ab0faea4a9a254",
   "app/fonts/barlow-latin-700-normal.woff2": "65a47caa5183b035bf78d0f93adbe5cea500333410259c54abf2de356740df7e",
-  "app/index.html": "5f2f19f8f6045d12498349add04bfe9c549d53ddcfbc88772b2b225923ee8574",
+  "app/index.html": "82596dd3bd529c51a858a0d8ff210393760ed2029aff3d99b06758e49f2e71d3",
   "app/vendor/LICENSE-anthropic.txt": "7fc343be7ec189b803c1872267cbaf0381b12ffdb22d972b8ea7b21b262ba563",
   "app/vendor/LICENSE-forge.txt": "f63ff0e4e239244aa79280da2dd4811a0469e5e201caf5cbc0d97c3a1dff8e82",
   "app/vendor/anthropic.min.js": "8044c8681b521ff7ff43acc4bf61039d2da9373add11176d6ac68ab042011978",

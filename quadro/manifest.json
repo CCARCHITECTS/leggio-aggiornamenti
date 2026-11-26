@@ -1,0 +1,17 @@
+{
+ "versione": "1.5.0",
+ "motore": 1,
+ "data": "2026-11-26",
+ "note": "Quadro 1.5.0: LET e LAMBDA, PREVISIONE.ETS, RAGGRUPPA.PER, PIVOT.PER, CELLA, editor VBA, UserForm, Attiva contenuto.",
+ "pacchetto": {
+  "url": "https://raw.githubusercontent.com/CCARCHITECTS/leggio-aggiornamenti/main/quadro/pacchetti/quadro-1.5.0.pacchetto",
+  "sha256": "db89b9c1cb47a72508ba1f172577c7bd49ed8f5361dd277951c51a44b003323f",
+  "dimensione": 1454998
+ },
+ "file": {
+  "app.js": "cc2f9ef4db1b7a3651d14b44e1b6dae7e2229a364743c3c86aa42e3fcd76052e",
+  "app.css": "166edff1face32852381d379d7573c122d9d72065317277f668ee79c35605df6",
+  "sql-wasm.wasm": "6918fd54c1192011b85af0365a819411285bb5579b9ae6a7308778a1750a2765",
+  "app.js.LEGAL.txt": "35100c0ee4fc6cc272432dd5c6a769dedde3a0651fd679a047567a3b45a64d0c"
+ }
+}

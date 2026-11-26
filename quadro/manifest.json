@@ -1,16 +1,16 @@
 {
- "versione": "1.5.0",
+ "versione": "1.6.0",
  "motore": 1,
  "data": "2026-11-26",
- "note": "Quadro 1.5.0: LET e LAMBDA, PREVISIONE.ETS, RAGGRUPPA.PER, PIVOT.PER, CELLA, editor VBA, UserForm, Attiva contenuto.",
+ "note": "Lavoro insieme in tempo reale (Revisione > Condividi / Partecipa) e linguaggio M di Power Query (Editor avanzato, query vuota, query dei file Excel).",
  "pacchetto": {
-  "url": "https://raw.githubusercontent.com/CCARCHITECTS/leggio-aggiornamenti/main/quadro/pacchetti/quadro-1.5.0.pacchetto",
-  "sha256": "db89b9c1cb47a72508ba1f172577c7bd49ed8f5361dd277951c51a44b003323f",
-  "dimensione": 1454998
+  "url": "https://raw.githubusercontent.com/CCARCHITECTS/leggio-aggiornamenti/main/quadro/pacchetti/quadro-1.6.0.pacchetto",
+  "sha256": "05690db587fb303a9abf5e2c9aa2f14bc43794705239a48c72fa1ad7f31d692c",
+  "dimensione": 1553761
  },
  "file": {
-  "app.js": "cc2f9ef4db1b7a3651d14b44e1b6dae7e2229a364743c3c86aa42e3fcd76052e",
-  "app.css": "166edff1face32852381d379d7573c122d9d72065317277f668ee79c35605df6",
+  "app.js": "ba441a20e88799993c07218d8a28e2a1f416a306789fd2905f179d029138c924",
+  "app.css": "de05b9e55d4a9cbf01ffb660a7155e9e3aa457619e24a5640ec14d9ab6a44e64",
   "sql-wasm.wasm": "6918fd54c1192011b85af0365a819411285bb5579b9ae6a7308778a1750a2765",
   "app.js.LEGAL.txt": "35100c0ee4fc6cc272432dd5c6a769dedde3a0651fd679a047567a3b45a64d0c"
  }

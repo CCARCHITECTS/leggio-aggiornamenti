@@ -1,0 +1,16 @@
+{
+  "name": "Quadro - CC architects",
+  "short_name": "Quadro",
+  "description": "Il foglio di calcolo dello studio CC architects",
+  "lang": "it",
+  "start_url": "./?telefono",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1c568c",
+  "icons": [
+    { "src": "icona-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icona-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "file_handlers": [{ "action": "./?telefono", "accept": { "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet": [".xlsx"] } }]
+}

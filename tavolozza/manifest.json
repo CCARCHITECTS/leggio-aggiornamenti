@@ -1,0 +1,12 @@
+{
+ "app": "tavolozza",
+ "versione": "1.6.0",
+ "motore": 1,
+ "data": "2026-11-26",
+ "note": "Tavolozza Studio 1.6: ruota vista, prova colori e CMYK, profili colore, PSD a 16 bit e dati leggibili da Photoshop, video, 3D, grandangolo adattivo, aggiornamento automatico.",
+ "pc": {
+  "file": {
+   "Tavolozza.html": "48d74fd8117d868a3fa7959515935170f4382db219ad392368f39b2e53cf021d"
+  }
+ }
+}

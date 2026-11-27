@@ -1,12 +1,12 @@
 {
  "app": "tavolozza",
- "versione": "1.6.0",
+ "versione": "1.7.0",
  "motore": 1,
- "data": "2026-11-26",
- "note": "Tavolozza Studio 1.6: ruota vista, prova colori e CMYK, profili colore, PSD a 16 bit e dati leggibili da Photoshop, video, 3D, grandangolo adattivo, aggiornamento automatico.",
+ "data": "2026-11-27",
+ "note": "Versione 1.7: quasi tutto quello che c'è in Photoshop. Nuovi strumenti (cornice, rimuovi, tavola da disegno, sezioni), 36 filtri nuovi, forme e maschere vettoriali, testo in paragrafo, profili CMYK veri, misurazioni, metodo pila, stili e molto altro.",
  "pc": {
   "file": {
-   "Tavolozza.html": "48d74fd8117d868a3fa7959515935170f4382db219ad392368f39b2e53cf021d"
+   "Tavolozza.html": "20bdae5ddf709a45b1a8aad2585c0d89a240831368d2a38ffffb005f7958692f"
   }
  }
 }

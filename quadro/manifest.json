@@ -1,16 +1,16 @@
 {
- "versione": "1.6.0",
+ "versione": "1.7.0",
  "motore": 1,
- "data": "2026-11-26",
- "note": "Lavoro insieme in tempo reale (Revisione > Condividi / Partecipa) e linguaggio M di Power Query (Editor avanzato, query vuota, query dei file Excel).",
+ "data": "2026-11-27",
+ "note": "Quadro 1.7: disegnatore delle finestre VBA, commenti e cronologia delle versioni nel lavoro insieme, modelli per lo studio (computo, preventivo, quadro economico, SAL, cronoprogramma).",
  "pacchetto": {
-  "url": "https://raw.githubusercontent.com/CCARCHITECTS/leggio-aggiornamenti/main/quadro/pacchetti/quadro-1.6.0.pacchetto",
-  "sha256": "05690db587fb303a9abf5e2c9aa2f14bc43794705239a48c72fa1ad7f31d692c",
-  "dimensione": 1553761
+  "url": "https://raw.githubusercontent.com/CCARCHITECTS/leggio-aggiornamenti/main/quadro/pacchetti/quadro-1.7.0.pacchetto",
+  "sha256": "46b06c593af5a0c1c82d9163df001650971f0f65ec96e15e02dca6cc7f100062",
+  "dimensione": 1575119
  },
  "file": {
-  "app.js": "ba441a20e88799993c07218d8a28e2a1f416a306789fd2905f179d029138c924",
-  "app.css": "de05b9e55d4a9cbf01ffb660a7155e9e3aa457619e24a5640ec14d9ab6a44e64",
+  "app.js": "0c84764ec8f9b34e37415be0639f51ac641b2f690f72a382ab471de4289453fc",
+  "app.css": "9cada78c5c8977858f47d1bfe40f03b03f1471d1dd66a2e91f55bcbc3fc5dc37",
   "sql-wasm.wasm": "6918fd54c1192011b85af0365a819411285bb5579b9ae6a7308778a1750a2765",
   "app.js.LEGAL.txt": "35100c0ee4fc6cc272432dd5c6a769dedde3a0651fd679a047567a3b45a64d0c"
  }

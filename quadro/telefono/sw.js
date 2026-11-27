@@ -1,5 +1,5 @@
 // Quadro sul telefono: con internet prende sempre l'ultima versione pubblicata, senza internet usa la copia salvata.
-const CACHE = 'quadro-1.7.0';
+const CACHE = 'quadro-1.8.0';
 const FILES = ['./', './index.html', './boot.js', './app.js', './app.css', './sql-wasm.wasm', './manifest.webmanifest', './icona-192.png', './icona-512.png'];
 self.addEventListener('install', (e) => { e.waitUntil(caches.open(CACHE).then((c) => c.addAll(FILES)).then(() => self.skipWaiting())); });
 self.addEventListener('activate', (e) => { e.waitUntil(self.clients.claim()); });

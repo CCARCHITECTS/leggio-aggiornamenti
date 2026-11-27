@@ -1,17 +1,20 @@
 {
- "versione": "1.7.0",
+ "versione": "1.8.0",
  "motore": 1,
  "data": "2026-11-27",
- "note": "Quadro 1.7: disegnatore delle finestre VBA, commenti e cronologia delle versioni nel lavoro insieme, modelli per lo studio (computo, preventivo, quadro economico, SAL, cronoprogramma).",
+ "note": "Quadro 1.8: forme e caselle di testo, interruzioni di pagina e Layout di pagina, controllo ortografia, collegamenti ad altri file, Valuta formula e controllo errori, scenari e Consolida, filtro avanzato, linee di tendenza e nuovi grafici (anche mappe), Dividi e Nuova finestra, temi e sfondo, password di apertura, INFO.DATI.TAB.PIVOT, Rileva modifiche, Verifica accessibilità, Traduci.",
  "pacchetto": {
-  "url": "https://raw.githubusercontent.com/CCARCHITECTS/leggio-aggiornamenti/main/quadro/pacchetti/quadro-1.7.0.pacchetto",
-  "sha256": "46b06c593af5a0c1c82d9163df001650971f0f65ec96e15e02dca6cc7f100062",
-  "dimensione": 1575119
+  "url": "https://raw.githubusercontent.com/CCARCHITECTS/leggio-aggiornamenti/main/quadro/pacchetti/quadro-1.8.0.pacchetto",
+  "sha256": "af5fbeb8aa32542538d946cfa895dbf5366fd994a0182eda751041dbad22667b",
+  "dimensione": 2364822
  },
  "file": {
-  "app.js": "0c84764ec8f9b34e37415be0639f51ac641b2f690f72a382ab471de4289453fc",
-  "app.css": "9cada78c5c8977858f47d1bfe40f03b03f1471d1dd66a2e91f55bcbc3fc5dc37",
+  "app.js": "58c82945cf44e9d44be3176e8b9f945a380dc999e063b451788e7ec1b468d2b7",
+  "app.css": "e3b695a65410f37d6fed59171932ed41042e91915d5549fbd6187a6f45f512f1",
   "sql-wasm.wasm": "6918fd54c1192011b85af0365a819411285bb5579b9ae6a7308778a1750a2765",
-  "app.js.LEGAL.txt": "35100c0ee4fc6cc272432dd5c6a769dedde3a0651fd679a047567a3b45a64d0c"
+  "app.js.LEGAL.txt": "35100c0ee4fc6cc272432dd5c6a769dedde3a0651fd679a047567a3b45a64d0c",
+  "dizionario-it.aff": "5770cd3e16d494c045b4a9a4a9fcd7962577e642d0384a7129c020a12cdd2c79",
+  "dizionario-it.dic": "b1348fbdb6f441ea9dd7e33b2cfcb96ead39ccd5e48bf894972774cd5aa86abb",
+  "mappe.json": "76efde9e6e1e1ccb8d2fe3a92efbfda456df457f67bd4ce8648de1c801ca1da6"
  }
 }
